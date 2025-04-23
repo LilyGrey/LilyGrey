@@ -1,14 +1,14 @@
 👋 Hi, I’m @LilyGrey
 
-📊 Recent Supply Chain Management Graduate | 📈 Aspiring Data/Business Analyst
+📊 Supply Chain Analyst | 🎓 Supply Chain and Business Graduate | 🥸 Data and AI Student
 
 🌱 Currently honing my data skills through online courses and projects
 
-🔧 Skills: Python, SQL, Data Analysis, Supply Chain Management
+🔧 Skills:Excel and Google sheets for Data Analysis, Tableau and PowerBI for Visualisation, Supply Chain Management
 
 🔍 Exploring the intersection of data and supply chain for insights and efficiencies
 
-📚 On a journey to become a Data/Business Analyst in the supply chain domain
+📚 On a life long learning journey
 
 🌟 Let's connect! [LinkedIn](https://www.linkedin.com/in/lydia-greyling)
               
